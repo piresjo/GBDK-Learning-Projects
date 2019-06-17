@@ -1,0 +1,7 @@
+The game boy uses four different sound channels
+    - 1) Square wave
+    - 2) Square wave
+    - 3) Programmable wave table (samples, but will be low quality and takes a lot of cpu power)
+    - 4) Noise channel
+
+Channel 1 can do a frequency sweep (need more info on this); channel 2 cannot
